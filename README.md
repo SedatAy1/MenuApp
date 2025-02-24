@@ -37,7 +37,7 @@ Bu proje, Vue.js 3, Vue Router, Axios, Pinia ve Tailwind CSS kullanılarak geli�
 2.  **Proje Dizine Gidin:**
 
     ```bash
-    cd MenuApp  # veya projenize verdiğiniz isim
+    cd MenuApp  
     ```
 
 3.  **Bağımlılıkları Yükleyin:**
